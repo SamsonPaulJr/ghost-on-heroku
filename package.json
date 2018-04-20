@@ -10,8 +10,7 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "milestone": "github:samsonpauljr/Milestone#1.0.0",
-    "ghost": "^1.8.0",
+    "ghost": "^1.22.3",
     "ghost-storage-adapter-s3": "^2.3.0",
     "mysql": "^2.14.1"
   },
