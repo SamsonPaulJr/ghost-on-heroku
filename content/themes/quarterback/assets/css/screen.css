@@ -651,10 +651,10 @@ sup {
 	font-size: 12px;
 	line-height: 1.4em;
 	color: rgba(255, 255, 255, 0.5);
-	background: -webkit-linear-gradient(left, #6dc234, #6dc234);
-	background: -moz-linear-gradient(left, #6dc234, #6dc234);
-	background: -ms-linear-gradient(left, #6dc234, #6dc234);
-	background: -o-linear-gradient(left, #6dc234, #6dc234);
+	background: -webkit-linear-gradient(left, #ad97ef, #ad97ef);
+	background: -moz-linear-gradient(left, #ad97ef, #ad97ef);
+	background: -ms-linear-gradient(left, #ad97ef, #ad97ef);
+	background: -o-linear-gradient(left, #ad97ef, #ad97ef);
 }
 .gradient a {
 	color: #fff;
